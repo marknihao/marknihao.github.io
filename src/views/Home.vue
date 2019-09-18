@@ -65,7 +65,7 @@
                                     负责团队前端公共基础的建设<em>vue</em>应用于快速搭建前端项目
                                 </p>
                                 <p class="section-content">
-                                    基于<em>element UI</em>开发的样式UI组件库，制定组件规范，保证高复用性，负责组件库整体的建设及其大部分组件的开发工作。
+                                    基于<em>element UI</em>开发的样式UI组件库，制定组件规范，保证高复用性，负责组件库整体的建设及其部分组件的开发工作。
                                 </p>
                             </div>
                         </div>
@@ -174,29 +174,13 @@
                                掌握Web前端开发基本技能，熟悉<strong>W3C标准</strong>、<strong>HTML</strong>、<strong>CSS</strong>、<strong>UI重构</strong>、<strong>页面布局</strong>、<strong>响应式布局</strong>等，领悟<strong>视觉</strong>与<strong>设计</strong>，重视<strong>页面交互</strong>与<strong>用户体验</strong>。
                             </p></li>
                             <li><p class="section-content"><i class="iconfont icon-dot"></i>
-                                对<strong>JavaScript</strong>、各类<strong>UI组件库</strong>、<strong>JS类库</strong>、<strong>模板引擎</strong>、<strong>MV*框架</strong>、<strong>工程化工具</strong>等有着较熟练的实践和较深刻的感悟。
+                                对<strong>JavaScript</strong>、各类<strong>UI组件库</strong>、<strong>JS类库</strong>、<strong>模板引擎</strong>、<strong>CSS预处理器</strong>、<strong>MV*框架</strong>、<strong>工程化工具</strong>等有着较熟练的实践和较深刻的感悟。
                             </p></li>
-                            <li><p class="section-content"><i class="iconfont icon-dot"></i>了解php node 后台语言 了解mongdb 数据库，运用node 做过一些小例子实现数据与结构的分离。可以与后台人员进行很好的对接。</p></li>
                             <li><p class="section-content"><i class="iconfont icon-dot"></i>以<em>Vue</em><em>less</em><em>sass</em><em>Webpack</em><em>微信小程序</em>等为常用技术栈，同时也了解主流的<em>Node.js</em><em>React</em><em>Angular</em><em>gulp</em>等技术。</p></li>
+                            <li><p class="section-content"><i class="iconfont icon-dot"></i>了解php node 后台语言 了解mongdb 数据库，运用node 做过一些小例子实现数据与结构的分离。可以与后台人员进行很好的对接。</p></li>
                             <li><p class="section-content"><i class="iconfont icon-dot"></i>熟悉SEO 网站优化，对用户体验、交互操作流程也有一定的了解。</p></li>
-                            <li><p class="section-content"><i class="iconfont icon-dot"></i>熟悉各种常用的工具：Hbuider ,WebStorm、sublime、vscode、myEclipse、photoshop、AI、Svn、 bash、git等</p></li>
+                            <li><p class="section-content"><i class="iconfont icon-dot"></i>熟悉各种常用的工具：photoshop、AI、Hbuider ,WebStorm、sublime、vscode、myEclipse、 bash、Svn、git等</p></li>
 
-                            <!--
-                            <li><p class="section-content"><i class="iconfont icon-dot"></i>
-                                对<strong>JavaScript</strong>、各类<strong>UI组件库</strong>、<strong>JS类库</strong>、<strong>模板引擎</strong>、<strong>MV*框架</strong>、<strong>工程化工具</strong>等有着较熟练的实践和较深刻的感悟。
-                            </p></li>
-                            <li><p class="section-content"><i class="iconfont icon-dot"></i>
-                                对<strong>Node.js</strong>、<strong>模块化规范</strong>、<strong>CSS预处理器</strong>、<strong>数据可视化</strong>、<strong>设计模式</strong>、<strong>性能优化</strong>、<strong>前端安全</strong>等也有一定的应用与思考。
-                            </p></li>
-                            <li><p class="section-content"><i class="iconfont icon-dot"></i>
-                                熟练使用<strong>ES6</strong>语法编程，追求代码<strong>高质量</strong><strong>可维护性</strong>。以<em>Vue</em><em>less</em><em>Webpack</em><em>微信小程序</em><em>Node.js</em>等为常用技术栈，同时也了解主流的<em>React</em><em>gulp</em>等技术。
-                            </p></li>
-                            <li><p class="section-content"><i class="iconfont icon-dot"></i>
-                                熟练使用<strong>Git</strong>进行版本控制和代码托管、<strong>Markdown</strong>进行文档编写，了解项目常规开发流程、<strong>开发调试</strong>技巧、<strong>发布部署</strong>步骤，掌握<strong>类Unix</strong>服务器基本运维能力。
-                            </p></li>
-                            <li><p class="section-content"><i class="iconfont icon-dot"></i>
-                                时刻保持<strong>好奇心</strong>，具有一定的<strong>创新创造</strong>精神，持续关注业内前沿技术。工作上<strong>积极执行</strong><strong>有责任心</strong>，具有良好的<strong>沟通合作</strong>能力、<strong>分析解决问题</strong>能力以及较强的<strong>学习能力</strong>。
-                            </p></li> -->
                         </ul>
                     </div>
                 </section>
@@ -220,6 +204,8 @@
             </div>
         </div>
     </div>
+    <!-- <footer class="github-footer"><a class="footer-link" href="" target="_blank"><i class="iconfont icon-link"></i></a></footer> -->
+    <a class="pdf" href="resume.pdf" target="_blank"><i class="iconfont icon-pdf"></i> PDF简历</a>
   </div>
 </template>
 
@@ -228,6 +214,5 @@
 import '@/assets/style/index.less'
 export default {
   name: 'home'
-
 }
 </script>
