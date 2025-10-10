@@ -18,7 +18,7 @@
             <section class="contact">
                 <ul>
                     <li><a href="https://github.com/marknihao" target="_blank"><span class="contact-link">https://github.com/marknihao</span><i class="iconfont icon-github"></i></a></li>
-                    <li><a href="mailto:rfeiyang@gmial.cn" target="_blank"><span class="contact-link">rfeiyang@gmial.cn</span><i class="iconfont icon-email"></i></a></li>
+                    <li><a href="mailto:rfeiyang@gmail.com" target="_blank"><span class="contact-link">rfeiyang@gmail.com</span><i class="iconfont icon-email"></i></a></li>
                     <li><a href="tel:18320806285" target="_blank"><span class="contact-link">18320806285</span><i class="iconfont icon-phone"></i></a></li>
                 </ul>
             </section>
